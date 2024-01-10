@@ -889,15 +889,15 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li > a {
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 600;
     letter-spacing: 0.06em;
-    padding: 35px 15px;
+    padding: 50px 15px 35px 15px;
     text-transform: uppercase;
   }
 
   nav.navbar.bootsnav.sticked ul.nav > li > a {
-    padding: 30px 15px;
+    padding: 45px 15px;
   }
 
   nav.navbar.bootsnav.sticked .attr-nav li {
@@ -2150,7 +2150,7 @@ nav.navbar.bootsnav {
 
 .navbar-brand>img {
   display: initial;
-  height: auto;
+  height: 80px;
   
 }
 
